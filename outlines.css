@@ -38,13 +38,11 @@ header{
 .class-1 {
 	text-align: right;
 }
-@media (min-width: 1500px;) {
 .ricardo-milos {
 	display: flex;
 	flex-wrap: wrap-reverse;
 	justify-content: center;
 	align-items: center;
-}
 }
 .int {
 	font-size: 20px;
