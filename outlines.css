@@ -38,7 +38,7 @@ header{
 .class-1 {
 	text-align: right;
 }
-@media (min-width: 800px;) {
+@media (min-width: 1500px;) {
 .ricardo-milos {
 	display: flex;
 	flex-wrap: wrap-reverse;
