@@ -32,8 +32,9 @@ header{
 .h2 {
 	text-align:center;
 	margin-top: 100px;
-	line-height: 70px;
-	font-weight: 200;
+	line-height: 50px;
+	font-weight: normal;
+	font-size: 28px;
 }
 .class-1 {
 	text-align: right;
@@ -45,7 +46,8 @@ header{
 	align-items: center;
 }
 .int {
-	font-size: 20px;
+	font-size: 14px;
+	color: gray;
 }
 .small-img-1 {
 	border-radius: 50%;
@@ -57,14 +59,18 @@ header{
 }
 .h1 {
 	font-weight: 200;
+	font-size: 24px;
+	color: gray;
 }
 .sj {
 	text-align: center;
 	font-weight: 200;
 	margin-top: 100px;
+	font-size: 28px;
 }
 .bs {
-	font-size: 30px;
+	font-size: 20px;
+	margin-bottom: 50px;
 }
 .l2 {
 	border: 6px solid blue;
@@ -90,9 +96,10 @@ header{
     border: 6px solid blue;
 	color: white;
 	background-color: blue;
-	border-radius: 10%;
-	height: 50px;
-	width: 150px;
+	border-radius: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	font-weight: bold;
 	font-size: 20px;
 	text-decoration: none;
 }
@@ -100,6 +107,7 @@ header{
 	text-decoration: none;
 	border: 2px solid white;
 	padding: 14px;
+	border-opacity: 50%;
 	font-weight: bold;
 	color: white;
 	font-size: 20px;
@@ -109,12 +117,17 @@ header{
     text-decoration: none;
 	border: 2px solid lightgray;
 	color: gray;
-	border-radius: 10%;
+	border-radius: 6px;
+	padding: 14px;
+	font-size: 20px;
+	font-weight: bold;
 }
 .very-small-pic {
 	height: 50px;
 	text-align: center;
 	margin-top: 100px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 .ya-zakonchil {
 	font-size: 15px;
@@ -127,4 +140,11 @@ header{
 .nu-vse {
 	text-decoration: none;
 	color: gray;
+}
+.deniz {
+    text-decoration: none;
+    color: white;
+}
+.flex-element-upperimg {
+    color: white;
 }
